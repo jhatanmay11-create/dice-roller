@@ -1,0 +1,27 @@
+#container{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align :center;
+    font-size:2rem;
+    font-weight:bold;
+}
+
+button{
+    font-size:1.5rem;
+    padidng : 10px 15px;
+    border-radius :10px;
+    background-color:blue;
+    font-weight:bold;
+    color:white;
+    cursor:pointer;
+}
+
+button-hover{
+    background-color:blueviolet;
+}
+button-active{
+    background-color: hsl(210, 100%, 60%)
+}
+#number{
+    font-size:2rem;
+    width:150px;
+}
