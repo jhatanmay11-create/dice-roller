@@ -7,7 +7,7 @@
 
 button{
     font-size:1.5rem;
-    padidng : 10px 15px;
+    padding : 10px 15px;
     border-radius :10px;
     background-color:blue;
     font-weight:bold;
@@ -24,4 +24,14 @@ button-active{
 #number{
     font-size:2rem;
     width:150px;
+}
+#diceResults{
+    font-size:2rem;
+    text-align:center;
+    
+}
+#diceImages img{
+    width:150px;
+    margin : 5px;
+    
 }
